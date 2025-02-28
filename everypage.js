@@ -11,7 +11,7 @@ async function checkAccess() {
   }
 
   try {
-    const response = await fetch("https://qweujsakdwqesad.github.io/name.json");
+    const response = await fetch("https://maxeyasdasd.github.io/name.json");
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
